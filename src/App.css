@@ -1,0 +1,10 @@
+.container{
+    padding-top: 100px;
+    
+}
+.card{
+    padding-top: 1px;
+    width: 300px;
+    height: 350px;
+    box-sizing: border-box;
+}
